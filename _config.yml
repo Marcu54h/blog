@@ -21,8 +21,8 @@
 title: Adam Marzec - Blog
 email: adam.marzec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog with materials reworked from the postgraduate course
-  Programming with Elements of e-built systems at
+  A blog with materials reworked from the postgraduate studies 
+  Programming with Elements of Embedded Systems at
   the West Pomeranian University of Technology.
 domain: "marcu54h.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
