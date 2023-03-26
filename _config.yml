@@ -34,6 +34,7 @@ github_username: Marcu54h
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-admin
 
 jekyll_admin:
   hidden_links:
