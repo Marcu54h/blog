@@ -34,20 +34,7 @@ github_username: Marcu54h
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-admin
 
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
-
-# Disble safe mode
-safe: false
-    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
